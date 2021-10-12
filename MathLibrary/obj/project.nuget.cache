@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wdlsv9cprq/JxBKXfxA317mB9c9LpK04UCOoT8v6K6W8EcgXpNFfxUwoIB/ObyqMz8thwJw1VEJDejQ/3b7yEg==",
+  "success": true,
+  "projectFilePath": "G:\\VisualStudioRepo\\MathEngine_CG\\MathLibrary\\MathLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arcaino\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Arcaino\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

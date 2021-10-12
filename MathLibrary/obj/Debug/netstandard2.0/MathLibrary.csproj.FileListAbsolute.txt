@@ -1,0 +1,9 @@
+G:\VisualStudioRepo\MathEngine_CG\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.deps.json
+G:\VisualStudioRepo\MathEngine_CG\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.dll
+G:\VisualStudioRepo\MathEngine_CG\MathLibrary\bin\Debug\netstandard2.0\MathLibrary.pdb
+G:\VisualStudioRepo\MathEngine_CG\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csprojAssemblyReference.cache
+G:\VisualStudioRepo\MathEngine_CG\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfoInputs.cache
+G:\VisualStudioRepo\MathEngine_CG\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.AssemblyInfo.cs
+G:\VisualStudioRepo\MathEngine_CG\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.csproj.CoreCompileInputs.cache
+G:\VisualStudioRepo\MathEngine_CG\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.dll
+G:\VisualStudioRepo\MathEngine_CG\MathLibrary\obj\Debug\netstandard2.0\MathLibrary.pdb
